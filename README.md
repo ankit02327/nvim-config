@@ -177,6 +177,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
+- [Josean Martinez's Neovim Tutorial](https://www.josean.com/posts/how-to-setup-neovim-2024) - This configuration is largely based on this excellent guide
 - [Neovim](https://neovim.io/) - The future of Vim
 - All the amazing plugin authors
 - The Neovim community for inspiration and support
