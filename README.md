@@ -1,3 +1,5 @@
+<img width="1891" height="979" alt="image" src="https://github.com/user-attachments/assets/1c429f8b-ba10-4e88-bde3-38339f8af31f" />
+
 # 🚀 Neovim Configuration
 
 > My meticulously crafted Neovim setup built with Lua — modular, performant, and optimized for developer productivity.
