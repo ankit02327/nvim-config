@@ -103,6 +103,7 @@ A thoughtfully designed Neovim configuration that balances functionality, perfor
 - **[which-key.nvim](https://github.com/folke/which-key.nvim)** - Displays keybindings in popup
 - **[auto-session](https://github.com/rmagatti/auto-session)** - Automatic session management
 - **[vim-maximizer](https://github.com/szw/vim-maximizer)** - Window maximization utility
+- **[vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)** - Seamless navigation between tmux and vim
 
 ### User Interface
 
@@ -112,6 +113,8 @@ A thoughtfully designed Neovim configuration that balances functionality, perfor
 - **[nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)** - File explorer
 - **[indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)** - Indentation guides
 - **[dressing.nvim](https://github.com/stevearc/dressing.nvim)** - Improved UI components
+- **[tokyonight.nvim](https://github.com/folke/tokyonight.nvim)** - Elegant colorscheme
+- **[nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)** - Nerd Font icons
 
 ### Development Tools
 
@@ -123,6 +126,11 @@ A thoughtfully designed Neovim configuration that balances functionality, perfor
 - **[gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)** - Git integration
 - **[todo-comments.nvim](https://github.com/folke/todo-comments.nvim)** - TODO comment highlighting
 - **[trouble.nvim](https://github.com/folke/trouble.nvim)** - Pretty diagnostics list
+- **[mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)** - Automated third-party tool installation
+- **[lazygit.nvim](https://github.com/kdheepak/lazygit.nvim)** - Git interface inside Neovim
+- **[markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)** - Markdown real-time previewer
+- **[live-server.nvim](https://github.com/aurum77/live-server.nvim)** - Live server for HTML/web dev
+- **[LuaSnip](https://github.com/L3MON4D3/LuaSnip)** - Snippet engine
 
 ### Editing Enhancements
 
@@ -130,7 +138,10 @@ A thoughtfully designed Neovim configuration that balances functionality, perfor
 - **[nvim-surround](https://github.com/kylechui/nvim-surround)** - Add/change/delete surroundings
 - **[Comment.nvim](https://github.com/numToStr/Comment.nvim)** - Smart commenting
 - **[substitute.nvim](https://github.com/gbprod/substitute.nvim)** - Enhanced substitute commands
-- **Custom formatting and linting** - Code quality tools
+- **[conform.nvim](https://github.com/stevearc/conform.nvim)** - Powerful and fast formatting
+- **[nvim-lint](https://github.com/mfussenegger/nvim-lint)** - Asynchronous linting framework
+- **[nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag)** - Auto close and rename HTML/XML tags
+- **[nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring)** - Context-aware commenting
 
 ### Language-Specific Support
 
